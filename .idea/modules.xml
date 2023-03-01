@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/KomTrafficApp.iml" filepath="$PROJECT_DIR$/.idea/KomTrafficApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/komtraffic/komtraffic.iml" filepath="$PROJECT_DIR$/komtraffic/komtraffic.iml" />
+    </modules>
+  </component>
+</project>
